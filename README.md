@@ -17,7 +17,7 @@
 
 ## 📖 Deskripsi Proyek
 
-**HorrorMovieSamplingAnalysis** adalah proyek berbasis Jupyter Notebook untuk menganalisis dataset film horor (`horror_movies.csv`).  
+**HorrorMovieSamplingAnalysis** adalah project untuk menganalisis dataset film horor (`horror_movies.csv`).  
 Analisis difokuskan pada:
 - Eksplorasi distribusi data film horor (tahun rilis, rating, dan pendapatan)
 - Teknik sampling acak dan stratified sampling
