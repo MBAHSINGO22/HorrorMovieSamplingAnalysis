@@ -1,7 +1,6 @@
 <h1 align="center">🎥 Horror Movie Sampling Analysis</h1>
 <p align="center">
   <b>Analisis Sampling Film Horor Menggunakan Python</b><br>
-  <sub>Eksplorasi dataset film horor dengan teknik sampling statistik</sub>
 </p>
 
 <div align="center">
