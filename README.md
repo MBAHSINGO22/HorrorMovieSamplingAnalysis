@@ -52,13 +52,6 @@ HorrorMovieSamplingAnalysis/
 pip install pandas matplotlib seaborn
 ```
 
-### 2️⃣ Jalankan notebook
-```bash
-jupyter notebook data_sampling_235314099.ipynb
-```
-
-> Notebook akan menampilkan eksplorasi data, sampling, dan visualisasi distribusi.
-
 ---
 
 ## 📊 Insight
@@ -73,9 +66,3 @@ jupyter notebook data_sampling_235314099.ipynb
 
 **MBAHSINGO22**  
 🔗 [GitHub](https://github.com/MBAHSINGO22)
-
----
-
-## 📄 Lisensi
-
-Proyek ini menggunakan lisensi MIT — bebas digunakan untuk pembelajaran, analisis data, dan penelitian.
