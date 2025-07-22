@@ -30,8 +30,7 @@ Analisis difokuskan pada:
 ```
 HorrorMovieSamplingAnalysis/
 ├── horror_movies.csv                 # Dataset film horor
-├── data_sampling_235314099.ipynb     # Notebook analisis & sampling
-└── README.md                         # Dokumentasi proyek
+└── data_sampling_235314099.ipynb     # Notebook analisis & sampling
 ```
 
 ---
